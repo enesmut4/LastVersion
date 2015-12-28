@@ -1,3 +1,7 @@
 [general]
+
+version    = "v3.0.2"
+
 messagenew = "Herkese mutlu yıllar!\n\nBundan sonra botu Türkçe kullandığınız sürece ve Versiyon Kontrolü aktif olduğu sürece, yeniliklerden bu şekilde haberdar olabileceksiniz."
+
 messageold = "Kafkas Bot'un yeni bir sürümü (v3.0.2) çıktı!\nLütfen yeni sürümü web sayfamızdan indirin:\nhttp://enesmut.xyz"
